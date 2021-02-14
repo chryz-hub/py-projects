@@ -14,6 +14,3 @@
 
 #### Questions:
 
-Feel free to check out other cool repositories of chryz-hub [here](https://github.com/chryz-hub)
-
-You can also join the discord community [here](https://discord.gg/c6RhGwcP5b)
