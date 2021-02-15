@@ -12,7 +12,7 @@ This is a repository where codes, programs and projects written in python langua
  - If neccesary add snippets of codes explaining things difficult to understand
  - Writing of comments in the codes would be of real help
  
- ### Check this out as a [sample](https://github.com/chryzcodez/retrieve-json-data)
+  👉**Check this out as a [sample](https://github.com/chryzcodez/retrieve-json-data)**
  
  ### But wait before you start contibuting, you've got to know us better!
  ### This would really aid you to :
@@ -22,8 +22,6 @@ This is a repository where codes, programs and projects written in python langua
  * Know the goals and aim of the community
  * Including your presence as a member, if you wish
  ... and many more!
- ### Check us out [@chryz-hub](https://github.com/chryz-hub/chryz-hub.github.io)
- 
+#### Check us out [@chryz-hub](https://github.com/chryz-hub/chryz-hub.github.io)
 #### Feel free to check out other cool repositories of chryz-hub [here](https://github.com/chryz-hub)
-
 #### You can also join the discord community [here](https://discord.gg/c6RhGwcP5b)
