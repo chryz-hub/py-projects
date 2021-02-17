@@ -16,3 +16,19 @@ In order for us not to ignore your effort, please check well not to make a dupli
  - If neccesary add snippets of codes explaining things difficult to understand
  - Writing of comments in the codes would be of real help
  
+  * <strong>Check this out as a [sample](https://github.com/chryzcodez/retrieve-json-data)</strong>
+ 
+ ## Content
+ 
+ <details>
+<summary>
+<strong> Python-Codes</strong>
+</summary>
+    <ul>
+        <li><a href="https://github.com/chryzcodez/py-newbie-projects/tree/master/all-python-codes/dictionary-algo"> Dictionary-algorithm</a></li>
+        <li><a href="https://github.com/chryzcodez/py-newbie-projects/tree/master/all-python-codes/retrieve-school-data"> School Data Retrieval</a></li>
+    </ul>
+</details>
+
+ 
+
