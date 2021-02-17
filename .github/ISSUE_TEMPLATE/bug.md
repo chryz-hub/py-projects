@@ -31,8 +31,5 @@ Please add a screenshot if applicable
 
 Add any other context about the problem here.
 
-Feel free to check out other cool repositories of chryz-hub [here](https://github.com/chryz-hub)
-
-You can also join the discord community [here](https://discord.gg/c6RhGwcP5b)
 
 
