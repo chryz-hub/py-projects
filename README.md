@@ -27,7 +27,8 @@ In order for us not to ignore your effort, please check well not to make a dupli
     <ul>
         <li><a href="https://github.com/chryzcodez/py-newbie-projects/tree/master/all-python-codes/dictionary-algo"> Dictionary-algorithm</a></li>
         <li><a href="https://github.com/chryzcodez/py-newbie-projects/tree/master/all-python-codes/retrieve-school-data"> School Data Retrieval</a></li>
-    </ul>
+        <li><a href="https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/image-retrieval"> Image Retrieval</a></li>
+   </ul>
 </details>
 
  
