@@ -1,11 +1,7 @@
 # import xml library into the python code
 import xml.etree.ElementTree as ET
-# import sqlite database
-import sqlite3
-
 
 fname = input('Enter file name: ')
-
 
 # <key>Track ID</key><integer>369</integer>
 # <key>Name</key><string>Another One Bites The Dust</string>
