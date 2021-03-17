@@ -9,8 +9,8 @@ You don't have to worry much the codes are well commented for you to really unde
      This is a pure python code that does the job of scrapping the e-mail address list and providing out your desired output
      
 - ## [emaildb.py](https://github.com/chryz-hub/py-projects/blob/master/all-python-codes/e-mail-scrapper/emaildb.py)
-      This is a python code with sqlite database. This is same as `email.py` except the feature of storing your desired output (e-mail address)
+     This is a python code with sqlite database. This is same as `email.py` except the feature of storing your desired output (e-mail address)
       in a database.
       
 - ## [emailfile.txt](https://github.com/chryz-hub/py-projects/blob/master/all-python-codes/e-mail-scrapper/emailfile.txt)
-      This is a resources which has list of email for testing and tweaking your codes!
+     This is a resources which has list of email for testing and tweaking your codes!
