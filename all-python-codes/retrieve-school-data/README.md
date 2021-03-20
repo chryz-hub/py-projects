@@ -27,4 +27,4 @@ This function and primary aim of this repo is to retrieve data from a json(data)
    The other python file `rosterdb.py` is python code with a bit of sqlite. This code is to retrieve your data and store it into an sqlite database for later use. To use this you need to download an sqlite browser [here](https://sqlitebrowser.org/dl/).
    
 - ## [rosters.py](https://github.com/chryzcodez/py-projects/blob/master/all-python-codes/retrieve-school-data/rosters.py)
-This is same as the the `rosterdb.py` python file except from the sqlite database which this code does not have. You can simply run it on your terminal and get your data without saving any pich of it.
+    This is same as the the `rosterdb.py` python file except from the sqlite database which this code does not have. You can simply run it on your terminal and get your data without saving any pich of it.
