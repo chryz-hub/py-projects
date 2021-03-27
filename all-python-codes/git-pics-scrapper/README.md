@@ -4,7 +4,8 @@
 This is a python code that sends a request to GitHub user URL and parses the through the codes of that parses and prints out the URL of that GitHub user profile image.
 
 ## To get started please make sure you have these installed on your device
-- PIP
+
+### PIP
 PIP is a package manager for Python packages or modules, it is the standard package manager for Python. It allows you to install and manage additional packages that are not part of the Python standard library.
 
 <b> If you would love to watch a video on how pip is installed. [Check out this video](https://www.youtube.com/watch?v=Ko9b_vC6XY0)
