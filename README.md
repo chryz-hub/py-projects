@@ -28,7 +28,7 @@ In order for us not to ignore your effort, please check well not to make a dupli
         <li><a href="https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/bulk-file-renamer"> Bulk-File-Renamer</a></li>
         <li><a href="https://github.com/chryzcodez/py-newbie-projects/tree/master/all-python-codes/dictionary-algo"> Dictionary-algorithm</a></li>
         <li><a href="https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/e-mail-scrapper"> E-mail Scrapper</a></li>
-        <li><a href=" https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/git-pics-scrapper"> Git-Pics-Scrapper</a></li>
+        <li><a href="https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/git-pics-scrapper"> Git-Pics-Scrapper</a></li>
         <li><a href="https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/image-retrieval"> Image Retrieval</a></li>
         <li><a href="https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/retri-itunes-data"> Itunes Data Retrieval</a></li>
         <li><a href="https://github.com/chryzcodez/py-newbie-projects/tree/master/all-python-codes/retrieve-school-data"> School Data Retrieval</a></li>
