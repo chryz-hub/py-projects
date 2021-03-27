@@ -1,4 +1,4 @@
-# py-newbies-project
+# py-projects
 
 This is a repository where codes, programs and projects written in python language are brought together for the growth, fast learning and also the creating of hand-on-projects experiences for codenewbies(beginners) in the language `PYTHON`
 
