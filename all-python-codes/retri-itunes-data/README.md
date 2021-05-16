@@ -11,3 +11,5 @@ about!
 - ## [Itunesdata.xml](https://github.com/chryz-hub/py-projects/blob/master/all-python-codes/retri-itunes-data/itunesdata.xml)
     I later decided to commit an itunes music data(xml), it is an xml file and that would really work for any language you use. I made it available for use maybe probably you can get a personal data, you can make use of this!
 
+Code/program owned by:
+[@chryzcodez](https://github.com/chryzcodez)
