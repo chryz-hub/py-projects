@@ -14,3 +14,6 @@ You don't have to worry much the codes are well commented for you to really unde
 
 - ## [emailfile.txt](https://github.com/chryz-hub/py-projects/blob/master/all-python-codes/e-mail-scrapper/emailfile.txt)
      This is a resources which has list of email for testing and tweaking your codes!
+
+Code/program owned by:
+[@chryzcodez](https://github.com/chryzcodez)
