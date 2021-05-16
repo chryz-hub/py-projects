@@ -28,3 +28,6 @@ This function and primary aim of this repo is to retrieve data from a json(data)
    
 - ## [rosters.py](https://github.com/chryzcodez/py-projects/blob/master/all-python-codes/retrieve-school-data/rosters.py)
     This is same as the the `rosterdb.py` python file except from the sqlite database which this code does not have. You can simply run it on your terminal and get your data without saving any pich of it.
+
+Code/program owned by:
+[@chryzcodez](https://github.com/chryzcodez)
