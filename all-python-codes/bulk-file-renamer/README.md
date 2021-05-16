@@ -7,3 +7,6 @@ The codes would help yo to change the files to right path and name in a chronolo
 
 You don't need to really bother much on these because the code has been well commented out for you
 to easily understand what it is all about.
+
+Code/program owned by:
+[@chryzcodez](https://github.com/chryzcodez)
