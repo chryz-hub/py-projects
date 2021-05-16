@@ -18,3 +18,5 @@ you have it properly installed on your device but if it shows something like err
 - and `pip install bs4`
 
 Without these the python code would not run the way it should!
+Code/program owned by:
+[@chryzcodez](https://github.com/chryzcodez)
