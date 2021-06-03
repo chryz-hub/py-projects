@@ -1,6 +1,12 @@
 # Retrieval of data from a json 
 This function and primary aim of this repo is to retrieve data from a json(data) file
-
+  
+- ## [rosterdb.py](https://github.com/chryzcodez/py-projects/blob/master/all-python-codes/retrieve-school-data/rosterdb.py)
+   The other python file `rosterdb.py` is python code with a bit of sqlite. This code is to retrieve your data and store it into an sqlite database for later use. To use this you need to download an sqlite browser [here](https://sqlitebrowser.org/dl/).
+   
+- ## [rosters.py](https://github.com/chryzcodez/py-projects/blob/master/all-python-codes/retrieve-school-data/rosters.py)
+   This is same as the the `rosterdb.py` python file except from the sqlite database which this code does not have. You can simply run it on your terminal and get your data without saving any pich of it.
+   
 - ##  [roster_data.json](https://github.com/chryzcodez/py-projects/blob/master/all-python-codes/retrieve-school-data/roster_data.json)
     **Note:**_This file was made available for the tweaking and test-running of the python codes/ program made available in this repo!
     
@@ -22,12 +28,4 @@ This function and primary aim of this repo is to retrieve data from a json(data)
   - **"si110"**: is represented as the course taught by the teacher aformentioned.
   - **"1"**: is represented as here as a tescher's post
   - **"0"**: is represented as here as the post of a student
-  
-- ## [rosterdb.py](https://github.com/chryzcodez/py-projects/blob/master/all-python-codes/retrieve-school-data/rosterdb.py)
-   The other python file `rosterdb.py` is python code with a bit of sqlite. This code is to retrieve your data and store it into an sqlite database for later use. To use this you need to download an sqlite browser [here](https://sqlitebrowser.org/dl/).
-   
-- ## [rosters.py](https://github.com/chryzcodez/py-projects/blob/master/all-python-codes/retrieve-school-data/rosters.py)
-    This is same as the the `rosterdb.py` python file except from the sqlite database which this code does not have. You can simply run it on your terminal and get your data without saving any pich of it.
 
-Code/program owned by:
-[@chryzcodez](https://github.com/chryzcodez)
