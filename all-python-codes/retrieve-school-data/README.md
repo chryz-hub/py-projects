@@ -29,5 +29,3 @@ This function and primary aim of this repo is to retrieve data from a json(data)
   - **"1"**: is represented as here as a tescher's post
   - **"0"**: is represented as here as the post of a student
 
-Code/program owned by:
-[@chryzcodez](https://github.com/chryzcodez)

@@ -1,0 +1,1500 @@
+# itunes music xml data, you can use yours if you have or better still use the resources provided 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2015-11-24T11:12:10Z</date>
+	<key>Application Version</key><string>12.3.1.23</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/</string>
+	<key>Library Persistent ID</key><string>B7006C9E9799282E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>369</key>
+		<dict>
+			<key>Track ID</key><integer>369</integer>
+			<key>Name</key><string>Another One Bites The Dust</string>
+			<key>Artist</key><string>Queen</string>
+			<key>Composer</key><string>John Deacon</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4344295</integer>
+			<key>Total Time</key><integer>217103</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2006-02-14T16:13:02Z</date>
+			<key>Date Added</key><date>2006-02-14T16:12:53Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>55</integer>
+			<key>Play Date</key><integer>3518868190</integer>
+			<key>Play Date UTC</key><date>2015-07-04T19:23:10Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-10-14T23:31:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1511</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>21130E105F3B8845</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Compilations/Greatest%20Hits/03%20Another%20One%20Bites%20The%20Dust.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>371</key>
+		<dict>
+			<key>Track ID</key><integer>371</integer>
+			<key>Name</key><string>Asche Zu Asche</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Composer</key><string>Christoph Doom Schneider, Doktor Christian Lorenz, Oliver Riedel, Paul Landers, Richard Z. Kruspe-Bernstein &#38; Till Lindemann</string>
+			<key>Album</key><string>Herzeleid</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4638526</integer>
+			<key>Total Time</key><integer>231810</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2006-02-22T04:38:17Z</date>
+			<key>Date Added</key><date>2006-02-14T16:13:04Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>79</integer>
+			<key>Play Date</key><integer>3518869000</integer>
+			<key>Play Date UTC</key><date>2015-07-04T19:36:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4576</integer>
+			<key>Persistent ID</key><string>21130E105F3B8846</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Rammstein/Herzeleid/04%20Asche%20Zu%20Asche.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>373</key>
+		<dict>
+			<key>Track ID</key><integer>373</integer>
+			<key>Name</key><string>Beauty School Dropout</string>
+			<key>Artist</key><string>Various</string>
+			<key>Album</key><string>Grease</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4801377</integer>
+			<key>Total Time</key><integer>239960</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Date Modified</key><date>2006-02-14T16:13:26Z</date>
+			<key>Date Added</key><date>2006-02-14T16:13:15Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>48</integer>
+			<key>Play Date</key><integer>3516380131</integer>
+			<key>Play Date UTC</key><date>2015-06-06T00:15:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2010-04-07T15:38:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1401</integer>
+			<key>Persistent ID</key><string>21130E105F3B8847</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Various/Grease/06%20Beauty%20School%20Dropout.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>375</key>
+		<dict>
+			<key>Track ID</key><integer>375</integer>
+			<key>Name</key><string>Black Dog</string>
+			<key>Artist</key><string>Led Zeppelin</string>
+			<key>Composer</key><string>Jimmy Page, Robert Plant, John Paul Jones</string>
+			<key>Album</key><string>IV</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5934629</integer>
+			<key>Total Time</key><integer>296620</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2014-11-05T23:44:14Z</date>
+			<key>Date Added</key><date>2006-02-14T16:13:27Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>109</integer>
+			<key>Play Date</key><integer>3516392326</integer>
+			<key>Play Date UTC</key><date>2015-06-06T03:38:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-11-19T14:17:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1364</integer>
+			<key>Persistent ID</key><string>21130E105F3B8848</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Led%20Zeppelin/IV/01%20Black%20Dog.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>377</key>
+		<dict>
+			<key>Track ID</key><integer>377</integer>
+			<key>Name</key><string>Bring The Boys Back Home</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>The Wall [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1744588</integer>
+			<key>Total Time</key><integer>87118</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2006-02-14T16:13:53Z</date>
+			<key>Date Added</key><date>2006-02-14T16:13:50Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3514729354</integer>
+			<key>Play Date UTC</key><date>2015-05-17T21:42:34Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2013-10-20T10:35:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1445</integer>
+			<key>Sort Album</key><string>Wall [Disc 2]</string>
+			<key>Persistent ID</key><string>21130E105F3B8849</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Pink%20Floyd/The%20Wall%20%5BDisc%202%5D/2-05%20Bring%20The%20Boys%20Back%20Home.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>379</key>
+		<dict>
+			<key>Track ID</key><integer>379</integer>
+			<key>Name</key><string>Circles</string>
+			<key>Artist</key><string>Bryan Lee</string>
+			<key>Album</key><string>Blues Is</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7109552</integer>
+			<key>Total Time</key><integer>355369</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2009-03-31T14:14:37Z</date>
+			<key>Date Added</key><date>2006-02-14T16:13:54Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>54</integer>
+			<key>Play Date</key><integer>3493169662</integer>
+			<key>Play Date UTC</key><date>2014-09-10T08:54:22Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2013-07-01T12:06:02Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1592</integer>
+			<key>Persistent ID</key><string>21130E105F3B884A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Bryan%20Lee/Blues%20Is/01%20Circles.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>381</key>
+		<dict>
+			<key>Track ID</key><integer>381</integer>
+			<key>Name</key><string>Comfortably Numb</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>David Gilmour</string>
+			<key>Album</key><string>The Wall [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7684826</integer>
+			<key>Total Time</key><integer>384130</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2006-02-14T16:14:28Z</date>
+			<key>Date Added</key><date>2006-02-14T16:14:11Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3514729795</integer>
+			<key>Play Date UTC</key><date>2015-05-17T21:49:55Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-10-21T00:07:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1595</integer>
+			<key>Sort Album</key><string>Wall [Disc 2]</string>
+			<key>Persistent ID</key><string>21130E105F3B884B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Pink%20Floyd/The%20Wall%20%5BDisc%202%5D/2-06%20Comfortably%20Numb.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>383</key>
+		<dict>
+			<key>Track ID</key><integer>383</integer>
+			<key>Name</key><string>Crazy Little Thing Called Love</string>
+			<key>Artist</key><string>Queen</string>
+			<key>Composer</key><string>Freddie Mercury</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3274850</integer>
+			<key>Total Time</key><integer>163631</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2006-02-14T16:14:37Z</date>
+			<key>Date Added</key><date>2006-02-14T16:14:30Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3465751592</integer>
+			<key>Play Date UTC</key><date>2013-10-28T00:46:32Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1258</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>21130E105F3B884C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Compilations/Greatest%20Hits/09%20Crazy%20Little%20Thing%20Called%20Love.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>385</key>
+		<dict>
+			<key>Track ID</key><integer>385</integer>
+			<key>Name</key><string>Electric Funeral</string>
+			<key>Artist</key><string>Black Sabbath</string>
+			<key>Composer</key><string>Tony Iommi, Ozzy Osbourne, Geezer Butler, Bill Ward</string>
+			<key>Album</key><string>Paranoid</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5862554</integer>
+			<key>Total Time</key><integer>293015</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2006-02-21T22:50:24Z</date>
+			<key>Date Added</key><date>2006-02-14T16:14:38Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3502701857</integer>
+			<key>Play Date UTC</key><date>2014-12-29T17:44:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1188</integer>
+			<key>Persistent ID</key><string>21130E105F3B884D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Black%20Sabbath/Paranoid/05%20Electric%20Funeral.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>387</key>
+		<dict>
+			<key>Track ID</key><integer>387</integer>
+			<key>Name</key><string>Fat Bottomed Girls</string>
+			<key>Artist</key><string>Queen</string>
+			<key>Composer</key><string>Brian May</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5152514</integer>
+			<key>Total Time</key><integer>257515</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2006-02-14T16:15:04Z</date>
+			<key>Date Added</key><date>2006-02-14T16:14:53Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3465671648</integer>
+			<key>Play Date UTC</key><date>2013-10-27T02:34:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3631</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>21130E105F3B884E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Compilations/Greatest%20Hits/06%20Fat%20Bottomed%20Girls.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>389</key>
+		<dict>
+			<key>Track ID</key><integer>389</integer>
+			<key>Name</key><string>For Those About To Rock (We Salute You)</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album</key><string>Who Made Who</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7077218</integer>
+			<key>Total Time</key><integer>353750</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2006-02-22T04:16:01Z</date>
+			<key>Date Added</key><date>2006-02-14T16:15:06Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>84</integer>
+			<key>Play Date</key><integer>3489336536</integer>
+			<key>Play Date UTC</key><date>2014-07-28T00:08:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11774</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>21130E105F3B884F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Compilations/Who%20Made%20Who/09%20For%20Those%20About%20To%20Rock%20(We%20Salute%20You).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>391</key>
+		<dict>
+			<key>Track ID</key><integer>391</integer>
+			<key>Name</key><string>Four Sticks</string>
+			<key>Artist</key><string>Led Zeppelin</string>
+			<key>Composer</key><string>Jimmy Page, Robert Plant</string>
+			<key>Album</key><string>IV</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5690630</integer>
+			<key>Total Time</key><integer>284421</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2006-02-14T16:15:38Z</date>
+			<key>Date Added</key><date>2006-02-14T16:15:24Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>84</integer>
+			<key>Play Date</key><integer>3503057548</integer>
+			<key>Play Date UTC</key><date>2015-01-02T20:32:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>897</integer>
+			<key>Persistent ID</key><string>21130E105F3B8850</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Led%20Zeppelin/IV/06%20Four%20Sticks.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>393</key>
+		<dict>
+			<key>Track ID</key><integer>393</integer>
+			<key>Name</key><string>Furious Angels</string>
+			<key>Artist</key><string>Rob Dougan</string>
+			<key>Composer</key><string>Rob Dougan</string>
+			<key>Album</key><string>The Matrix Reloaded</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6602318</integer>
+			<key>Total Time</key><integer>330004</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2006-02-14T16:15:54Z</date>
+			<key>Date Added</key><date>2006-02-14T16:15:40Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>54</integer>
+			<key>Play Date</key><integer>3501131153</integer>
+			<key>Play Date UTC</key><date>2014-12-11T13:25:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-06-30T17:09:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3425</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Matrix Reloaded</string>
+			<key>Persistent ID</key><string>21130E105F3B8851</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Compilations/The%20Matrix%20Reloaded/1-04%20Furious%20Angels.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>395</key>
+		<dict>
+			<key>Track ID</key><integer>395</integer>
+			<key>Name</key><string>Gelle</string>
+			<key>Artist</key><string>Bryan Lee</string>
+			<key>Album</key><string>Blues Is</string>
+			<key>Genre</key><string>Blues/R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3998889</integer>
+			<key>Total Time</key><integer>199836</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2006-02-14T16:16:04Z</date>
+			<key>Date Added</key><date>2006-02-14T16:15:55Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3493171048</integer>
+			<key>Play Date UTC</key><date>2014-09-10T09:17:28Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-10-28T20:48:05Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1203</integer>
+			<key>Persistent ID</key><string>21130E105F3B8852</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Bryan%20Lee/Blues%20Is/06%20Gelle.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>397</key>
+		<dict>
+			<key>Track ID</key><integer>397</integer>
+			<key>Name</key><string>Going To California</string>
+			<key>Artist</key><string>Led Zeppelin</string>
+			<key>Composer</key><string>Jimmy Page, Robert Plant</string>
+			<key>Album</key><string>IV</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4315553</integer>
+			<key>Total Time</key><integer>215666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2006-02-14T16:16:15Z</date>
+			<key>Date Added</key><date>2006-02-14T16:16:06Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>100</integer>
+			<key>Play Date</key><integer>3502891530</integer>
+			<key>Play Date UTC</key><date>2014-12-31T22:25:30Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2010-04-07T15:38:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>506</integer>
+			<key>Persistent ID</key><string>21130E105F3B8853</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Led%20Zeppelin/IV/07%20Going%20To%20California.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>399</key>
+		<dict>
+			<key>Track ID</key><integer>399</integer>
+			<key>Name</key><string>Gotta Move Fast</string>
+			<key>Artist</key><string>Michael Loceff</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5752732</integer>
+			<key>Total Time</key><integer>287529</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2006-02-14T13:16:30Z</date>
+			<key>Date Added</key><date>2006-02-14T16:16:17Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3462615302</integer>
+			<key>Play Date UTC</key><date>2013-09-21T17:35:02Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2007-03-26T12:20:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>945</integer>
+			<key>Persistent ID</key><string>21130E105F3B8854</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Michael%20Loceff/Unknown%20Album/09%20Gotta%20Move%20Fast.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>401</key>
+		<dict>
+			<key>Track ID</key><integer>401</integer>
+			<key>Name</key><string>Grease</string>
+			<key>Artist</key><string>Various</string>
+			<key>Album</key><string>Grease</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4117999</integer>
+			<key>Total Time</key><integer>205792</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Date Modified</key><date>2013-11-13T14:41:09Z</date>
+			<key>Date Added</key><date>2006-02-14T16:16:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3516436529</integer>
+			<key>Play Date UTC</key><date>2015-06-06T15:55:29Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-02-02T16:42:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1537</integer>
+			<key>Persistent ID</key><string>21130E105F3B8855</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Various/Grease/01%20Grease.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>403</key>
+		<dict>
+			<key>Track ID</key><integer>403</integer>
+			<key>Name</key><string>Hand of Doom</string>
+			<key>Artist</key><string>Black Sabbath</string>
+			<key>Composer</key><string>Tony Iommi, Ozzy Osbourne, Geezer Butler, Bill Ward</string>
+			<key>Album</key><string>Paranoid</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8594436</integer>
+			<key>Total Time</key><integer>429609</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2006-02-21T22:51:16Z</date>
+			<key>Date Added</key><date>2006-02-14T16:16:41Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3472741986</integer>
+			<key>Play Date UTC</key><date>2014-01-16T23:33:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1462</integer>
+			<key>Persistent ID</key><string>21130E105F3B8856</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Black%20Sabbath/Paranoid/06%20Hand%20of%20Doom.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>405</key>
+		<dict>
+			<key>Track ID</key><integer>405</integer>
+			<key>Name</key><string>Hells Bells</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album</key><string>Who Made Who</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6261125</integer>
+			<key>Total Time</key><integer>312946</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2006-02-22T04:15:10Z</date>
+			<key>Date Added</key><date>2006-02-14T16:17:07Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>82</integer>
+			<key>Play Date</key><integer>3473354932</integer>
+			<key>Play Date UTC</key><date>2014-01-24T01:48:52Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-11-15T01:09:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11733</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>21130E105F3B8857</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Compilations/Who%20Made%20Who/06%20Hells%20Bells.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>407</key>
+		<dict>
+			<key>Track ID</key><integer>407</integer>
+			<key>Name</key><string>Hey You</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>The Wall [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5648310</integer>
+			<key>Total Time</key><integer>282305</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2006-02-14T16:17:37Z</date>
+			<key>Date Added</key><date>2006-02-14T16:17:24Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3514729106</integer>
+			<key>Play Date UTC</key><date>2015-05-17T21:38:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1309</integer>
+			<key>Sort Album</key><string>Wall [Disc 2]</string>
+			<key>Persistent ID</key><string>21130E105F3B8858</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Pink%20Floyd/The%20Wall%20%5BDisc%202%5D/2-01%20Hey%20You.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>409</key>
+		<dict>
+			<key>Track ID</key><integer>409</integer>
+			<key>Name</key><string>I Worry</string>
+			<key>Artist</key><string>Bryan Lee</string>
+			<key>Album</key><string>Blues Is</string>
+			<key>Genre</key><string>Blues/R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6828475</integer>
+			<key>Total Time</key><integer>341315</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2006-02-14T16:17:56Z</date>
+			<key>Date Added</key><date>2006-02-14T16:17:39Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3493172455</integer>
+			<key>Play Date UTC</key><date>2014-09-10T09:40:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1135</integer>
+			<key>Persistent ID</key><string>21130E105F3B8859</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Bryan%20Lee/Blues%20Is/11%20I%20Worry.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>411</key>
+		<dict>
+			<key>Track ID</key><integer>411</integer>
+			<key>Name</key><string>Iron Man</string>
+			<key>Artist</key><string>Black Sabbath</string>
+			<key>Composer</key><string>Tony Iommi, Ozzy Osbourne, Geezer Butler, Bill Ward</string>
+			<key>Album</key><string>Paranoid</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7172848</integer>
+			<key>Total Time</key><integer>358530</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2006-02-22T01:49:48Z</date>
+			<key>Date Added</key><date>2006-02-14T16:17:58Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3503420143</integer>
+			<key>Play Date UTC</key><date>2015-01-07T01:15:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1981</integer>
+			<key>Persistent ID</key><string>21130E105F3B885A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Black%20Sabbath/Paranoid/04%20Iron%20Man.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>413</key>
+		<dict>
+			<key>Track ID</key><integer>413</integer>
+			<key>Name</key><string>Is There Anybody Out There?</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>The Wall [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3215808</integer>
+			<key>Total Time</key><integer>160679</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2006-02-14T16:18:24Z</date>
+			<key>Date Added</key><date>2006-02-14T16:18:17Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3514729267</integer>
+			<key>Play Date UTC</key><date>2015-05-17T21:41:07Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-10-22T01:05:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>693</integer>
+			<key>Sort Album</key><string>Wall [Disc 2]</string>
+			<key>Persistent ID</key><string>21130E105F3B885B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Pink%20Floyd/The%20Wall%20%5BDisc%202%5D/2-02%20Is%20There%20Anybody%20Out%20There_.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>415</key>
+		<dict>
+			<key>Track ID</key><integer>415</integer>
+			<key>Name</key><string>It was a Very Good Year</string>
+			<key>Artist</key><string>Frank Sinatra</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Easy Listening</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5379221</integer>
+			<key>Total Time</key><integer>268852</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2006-02-14T16:18:40Z</date>
+			<key>Date Added</key><date>2006-02-14T16:18:26Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3468268859</integer>
+			<key>Play Date UTC</key><date>2013-11-26T05:00:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2007-03-26T12:20:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>696</integer>
+			<key>Persistent ID</key><string>21130E105F3B885C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Frank%20Sinatra/Greatest%20Hits/03%20It%20was%20a%20Very%20Good%20Year.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>417</key>
+		<dict>
+			<key>Track ID</key><integer>417</integer>
+			<key>Name</key><string>Its Your Move</string>
+			<key>Artist</key><string>Bryan Lee</string>
+			<key>Album</key><string>Blues Is</string>
+			<key>Genre</key><string>Blues/R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4902211</integer>
+			<key>Total Time</key><integer>245002</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2006-02-14T16:18:53Z</date>
+			<key>Date Added</key><date>2006-02-14T16:18:41Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3493170848</integer>
+			<key>Play Date UTC</key><date>2014-09-10T09:14:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2007-03-26T12:20:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2614</integer>
+			<key>Persistent ID</key><string>21130E105F3B885D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Bryan%20Lee/Blues%20Is/05%20Its%20Your%20Move.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>419</key>
+		<dict>
+			<key>Track ID</key><integer>419</integer>
+			<key>Name</key><string>Jack the Stripper/Fairies Wear Boots</string>
+			<key>Artist</key><string>Black Sabbath</string>
+			<key>Composer</key><string>Tony Iommi, Ozzy Osbourne, Geezer Butler, Bill Ward</string>
+			<key>Album</key><string>Paranoid</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7482166</integer>
+			<key>Total Time</key><integer>373995</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2006-02-22T01:52:11Z</date>
+			<key>Date Added</key><date>2006-02-14T16:18:54Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3472742511</integer>
+			<key>Play Date UTC</key><date>2014-01-16T23:41:51Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2007-03-26T12:20:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1752</integer>
+			<key>Persistent ID</key><string>21130E105F3B885E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Black%20Sabbath/Paranoid/08%20Jack%20the%20Stripper_Fairies%20Wear%20Boots.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>421</key>
+		<dict>
+			<key>Track ID</key><integer>421</integer>
+			<key>Name</key><string>Killer Queen</string>
+			<key>Artist</key><string>Queen</string>
+			<key>Composer</key><string>Freddie Mercury</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3629575</integer>
+			<key>Total Time</key><integer>181368</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1974</integer>
+			<key>Date Modified</key><date>2006-02-14T16:19:21Z</date>
+			<key>Date Added</key><date>2006-02-14T16:19:13Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3462508015</integer>
+			<key>Play Date UTC</key><date>2013-09-20T11:46:55Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2008-08-18T21:28:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3266</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>21130E105F3B885F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Compilations/Greatest%20Hits/04%20Killer%20Queen.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>423</key>
+		<dict>
+			<key>Track ID</key><integer>423</integer>
+			<key>Name</key><string>Laichzeit</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Composer</key><string>Christoph Doom Schneider, Doktor Christian Lorenz, Oliver Riedel, Paul Landers, Richard Z. Kruspe-Bernstein &#38; Till Lindemann</string>
+			<key>Album</key><string>Herzeleid</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5259192</integer>
+			<key>Total Time</key><integer>262844</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2006-02-22T04:41:32Z</date>
+			<key>Date Added</key><date>2006-02-14T16:19:23Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3483455112</integer>
+			<key>Play Date UTC</key><date>2014-05-20T22:25:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-09-20T23:58:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3721</integer>
+			<key>Persistent ID</key><string>21130E105F3B8860</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Rammstein/Herzeleid/10%20Laichzeit.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>425</key>
+		<dict>
+			<key>Track ID</key><integer>425</integer>
+			<key>Name</key><string>Let me Down Easy</string>
+			<key>Artist</key><string>Bryan Lee</string>
+			<key>Album</key><string>Blues Is</string>
+			<key>Genre</key><string>Blues/R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6630998</integer>
+			<key>Total Time</key><integer>331441</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2006-02-14T16:19:50Z</date>
+			<key>Date Added</key><date>2006-02-14T16:19:36Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3508728504</integer>
+			<key>Play Date UTC</key><date>2015-03-09T10:48:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1929</integer>
+			<key>Persistent ID</key><string>21130E105F3B8861</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Bryan%20Lee/Blues%20Is/04%20Let%20me%20Down%20Easy.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>427</key>
+		<dict>
+			<key>Track ID</key><integer>427</integer>
+			<key>Name</key><string>Misty Mountain Hop</string>
+			<key>Artist</key><string>Led Zeppelin</string>
+			<key>Composer</key><string>Jimmy Page, Robert Plant, John Paul Jones</string>
+			<key>Album</key><string>IV</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5578850</integer>
+			<key>Total Time</key><integer>278831</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2006-02-14T16:20:13Z</date>
+			<key>Date Added</key><date>2006-02-14T16:19:59Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>88</integer>
+			<key>Play Date</key><integer>3492855896</integer>
+			<key>Play Date UTC</key><date>2014-09-06T17:44:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1314</integer>
+			<key>Persistent ID</key><string>21130E105F3B8863</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Led%20Zeppelin/IV/05%20Misty%20Mountain%20Hop.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>429</key>
+		<dict>
+			<key>Track ID</key><integer>429</integer>
+			<key>Name</key><string>No Low Down</string>
+			<key>Artist</key><string>Bryan Lee</string>
+			<key>Album</key><string>Blues Is</string>
+			<key>Genre</key><string>Blues/R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4917360</integer>
+			<key>Total Time</key><integer>245760</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2006-02-14T16:20:34Z</date>
+			<key>Date Added</key><date>2006-02-14T16:20:24Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3493171889</integer>
+			<key>Play Date UTC</key><date>2014-09-10T09:31:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2768</integer>
+			<key>Persistent ID</key><string>21130E105F3B8865</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Bryan%20Lee/Blues%20Is/09%20No%20Low%20Down.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>431</key>
+		<dict>
+			<key>Track ID</key><integer>431</integer>
+			<key>Name</key><string>Now You Are Gone</string>
+			<key>Artist</key><string>America</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Easy Listening</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3753347</integer>
+			<key>Total Time</key><integer>187559</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2006-02-14T16:20:44Z</date>
+			<key>Date Added</key><date>2006-02-14T16:20:36Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>52</integer>
+			<key>Play Date</key><integer>3528446011</integer>
+			<key>Play Date UTC</key><date>2015-10-23T15:53:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2010-04-26T22:57:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>656</integer>
+			<key>Persistent ID</key><string>21130E105F3B8866</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/America/Greatest%20Hits/02%20Now%20You%20Are%20Gone.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>433</key>
+		<dict>
+			<key>Track ID</key><integer>433</integer>
+			<key>Name</key><string>Outside The Wall</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>The Wall [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2090965</integer>
+			<key>Total Time</key><integer>104437</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2006-02-14T16:20:59Z</date>
+			<key>Date Added</key><date>2006-02-14T16:20:55Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3514729899</integer>
+			<key>Play Date UTC</key><date>2015-05-17T21:51:39Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2008-08-18T21:29:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>35</integer>
+			<key>Sort Album</key><string>Wall [Disc 2]</string>
+			<key>Persistent ID</key><string>21130E105F3B8868</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Pink%20Floyd/The%20Wall%20%5BDisc%202%5D/2-13%20Outside%20The%20Wall.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>435</key>
+		<dict>
+			<key>Track ID</key><integer>435</integer>
+			<key>Name</key><string>Paranoid</string>
+			<key>Artist</key><string>Black Sabbath</string>
+			<key>Composer</key><string>Tony Iommi, Ozzy Osbourne, Geezer Butler, Bill Ward</string>
+			<key>Album</key><string>Paranoid</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3460848</integer>
+			<key>Total Time</key><integer>172930</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2006-02-22T01:48:18Z</date>
+			<key>Date Added</key><date>2006-02-14T16:21:00Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3503420316</integer>
+			<key>Play Date UTC</key><date>2015-01-07T01:18:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>922</integer>
+			<key>Persistent ID</key><string>21130E105F3B8869</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Black%20Sabbath/Paranoid/02%20Paranoid.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>437</key>
+		<dict>
+			<key>Track ID</key><integer>437</integer>
+			<key>Name</key><string>Planet Caravan</string>
+			<key>Artist</key><string>Black Sabbath</string>
+			<key>Composer</key><string>Tony Iommi, Ozzy Osbourne, Geezer Butler, Bill Ward</string>
+			<key>Album</key><string>Paranoid</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5501017</integer>
+			<key>Total Time</key><integer>274938</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2006-02-22T01:48:59Z</date>
+			<key>Date Added</key><date>2006-02-14T16:21:09Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3503420591</integer>
+			<key>Play Date UTC</key><date>2015-01-07T01:23:11Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2007-03-26T12:20:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>461</integer>
+			<key>Persistent ID</key><string>21130E105F3B886A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Black%20Sabbath/Paranoid/03%20Planet%20Caravan.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>439</key>
+		<dict>
+			<key>Track ID</key><integer>439</integer>
+			<key>Name</key><string>Pretty Jeanie</string>
+			<key>Artist</key><string>Bryan Lee</string>
+			<key>Album</key><string>Blues Is</string>
+			<key>Genre</key><string>Blues/R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4505673</integer>
+			<key>Total Time</key><integer>225175</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2006-02-14T16:21:32Z</date>
+			<key>Date Added</key><date>2006-02-14T16:21:23Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3502812757</integer>
+			<key>Play Date UTC</key><date>2014-12-31T00:32:37Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-10-21T00:07:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4946</integer>
+			<key>Persistent ID</key><string>21130E105F3B886B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Bryan%20Lee/Blues%20Is/10%20Pretty%20Jeanie.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>441</key>
+		<dict>
+			<key>Track ID</key><integer>441</integer>
+			<key>Name</key><string>Rammstein</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Composer</key><string>Christoph Doom Schneider, Doktor Christian Lorenz, Oliver Riedel, Paul Landers, Richard Z. Kruspe-Bernstein &#38; Till Lindemann</string>
+			<key>Album</key><string>Herzeleid</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5304122</integer>
+			<key>Total Time</key><integer>265090</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2011-11-18T19:28:29Z</date>
+			<key>Date Added</key><date>2006-02-14T16:21:34Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3489331767</integer>
+			<key>Play Date UTC</key><date>2014-07-27T22:49:27Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-09-21T01:55:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4060</integer>
+			<key>Persistent ID</key><string>21130E105F3B886C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Rammstein/Herzeleid/11%20Rammstein.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>443</key>
+		<dict>
+			<key>Track ID</key><integer>443</integer>
+			<key>Name</key><string>Rat Salad</string>
+			<key>Artist</key><string>Black Sabbath</string>
+			<key>Composer</key><string>Tony Iommi, Ozzy Osbourne, Geezer Butler, Bill Ward</string>
+			<key>Album</key><string>Paranoid</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3006841</integer>
+			<key>Total Time</key><integer>150230</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2006-02-22T01:51:32Z</date>
+			<key>Date Added</key><date>2006-02-14T16:21:47Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>46</integer>
+			<key>Play Date</key><integer>3472742136</integer>
+			<key>Play Date UTC</key><date>2014-01-16T23:35:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>451</integer>
+			<key>Persistent ID</key><string>21130E105F3B886F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Black%20Sabbath/Paranoid/07%20Rat%20Salad.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>445</key>
+		<dict>
+			<key>Track ID</key><integer>445</integer>
+			<key>Name</key><string>Rock &#38; Roll</string>
+			<key>Artist</key><string>Led Zeppelin</string>
+			<key>Composer</key><string>Jimmy Page, Robert Plant, John Paul Jones, John Bonham</string>
+			<key>Album</key><string>IV</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4420064</integer>
+			<key>Total Time</key><integer>220891</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2006-02-14T16:24:40Z</date>
+			<key>Date Added</key><date>2006-02-14T16:24:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>109</integer>
+			<key>Play Date</key><integer>3503062355</integer>
+			<key>Play Date UTC</key><date>2015-01-02T21:52:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1425</integer>
+			<key>Persistent ID</key><string>21130E105F3B8871</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Led%20Zeppelin/IV/02%20Rock%20&#38;%20Roll.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>447</key>
+		<dict>
+			<key>Track ID</key><integer>447</integer>
+			<key>Name</key><string>Rode Across the Desert</string>
+			<key>Artist</key><string>America</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Easy Listening</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4999916</integer>
+			<key>Total Time</key><integer>249887</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2006-02-14T16:24:53Z</date>
+			<key>Date Added</key><date>2006-02-14T16:24:42Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>60</integer>
+			<key>Play Date</key><integer>3528445823</integer>
+			<key>Play Date UTC</key><date>2015-10-23T15:50:23Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-02-26T14:21:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>964</integer>
+			<key>Persistent ID</key><string>21130E105F3B8872</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/America/Greatest%20Hits/01%20Rode%20Across%20the%20Desert.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>449</key>
+		<dict>
+			<key>Track ID</key><integer>449</integer>
+			<key>Name</key><string>Sandy</string>
+			<key>Artist</key><string>Various</string>
+			<key>Album</key><string>Grease</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3116986</integer>
+			<key>Total Time</key><integer>155742</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Date Modified</key><date>2006-02-14T16:25:01Z</date>
+			<key>Date Added</key><date>2006-02-14T16:24:54Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3478190630</integer>
+			<key>Play Date UTC</key><date>2014-03-21T00:03:50Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1739</integer>
+			<key>Persistent ID</key><string>21130E105F3B8873</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Various/Grease/05%20Sandy.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>451</key>
+		<dict>
+			<key>Track ID</key><integer>451</integer>
+			<key>Name</key><string>Shake Your Foundations</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album</key><string>Who Made Who</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4677593</integer>
+			<key>Total Time</key><integer>233769</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1985</integer>
+			<key>Date Modified</key><date>2006-02-22T04:15:26Z</date>
+			<key>Date Added</key><date>2006-02-14T16:25:02Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>85</integer>
+			<key>Play Date</key><integer>3396883263</integer>
+			<key>Play Date UTC</key><date>2011-08-22T22:41:03Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2007-09-22T13:56:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13346</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>21130E105F3B8874</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/Compilations/Who%20Made%20Who/07%20Shake%20Your%20Foundations.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>453</key>
+		<dict>
+			<key>Track ID</key><integer>453</integer>
+			<key>Name</key><string>Sister Golden Hair</string>
+			<key>Artist</key><string>America</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Easy Listening</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4043309</integer>
+			<key>Total Time</key><integer>202057</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2006-02-14T16:25:26Z</date>
+			<key>Date Added</key><date>2006-02-14T16:25:15Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>60</integer>
+			<key>Play Date</key><integer>3528445364</integer>
+			<key>Play Date UTC</key><date>2015-10-23T15:42:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2010-04-26T22:58:16Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1246</integer>
+			<key>Persistent ID</key><string>21130E105F3B8875</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/csev/Music/iTunes/iTunes%20Music/America/Greatest%20Hits/10%20Sister%20Golden%20Hair.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>455</key>
+		<dict>
+			<key>Track ID</key><integer>455</integer>
+			<key>Name</key><string>Somebody To Love</string>
+			<key>Artist</key><string>Queen</string>
+			<key>Composer</key><string>Freddie Mercury</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5953955</integer>
+			<key>Total Time</key><integer>297586</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2006-02-14T16:25:45Z</date>
+			<key>Date Added</key><date>2006-02-14T16:25:27Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
