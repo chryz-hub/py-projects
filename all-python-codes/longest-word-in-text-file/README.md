@@ -14,7 +14,7 @@ To run the script, open a terminal in the folder where your script is located an
 
 # Sample use of the script
 
-![alt text](https://github.com/Mannuel25/Mini-Python-Projects/blob/master/longest_word_in_file/script_screenshot.png)
+![alt text](https://github.com/Mannuel25/py-projects/blob/master/all-python-codes/longest-word-in-text-file/script_screenshot.png)
 
 # Author's name
 
