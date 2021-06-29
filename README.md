@@ -20,7 +20,7 @@ In order for us not to ignore your effort, please check well not to make a dupli
  
  ## Content
  
- <details>
+<details>
 <summary>
 <strong> Python-Codes</strong>
 </summary>
