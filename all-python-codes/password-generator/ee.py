@@ -1,2 +1,0 @@
-# hey
-print('Hello!')
