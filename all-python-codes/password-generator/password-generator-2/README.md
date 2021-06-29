@@ -2,9 +2,9 @@
 
 This program generates a secure random password. You'll be required to enter a few details about what your password should contain:
 
-- The length of alphabets(this includes upper and lower case) 
+- The length of alphabets (this includes upper and lower case) 
 - The length of special characters 
-- The length of digits you want in your password.
+- The length of digits.
 
 # Prerequisites
 
