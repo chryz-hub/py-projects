@@ -23,3 +23,7 @@ Running the script is pretty easy, open a terminal in the folder where your scri
 ![alt text](https://github.com/Mannuel25/py-projects/blob/master/all-python-codes/password-generator/password-generator-2/screenshot_2.png)
 
 ![alt text](https://github.com/Mannuel25/py-projects/blob/master/all-python-codes/password-generator/password-generator-2/screenshot_3.png)
+
+# Author's name
+
+[Tanimowo Emmanuel](https://github.com/Mannuel25)
