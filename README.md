@@ -10,17 +10,17 @@ In order for us not to ignore your effort, please check well not to make a dupli
 
 - Put the project, codes or program in a directory(like a repo)
 - Add a readme file; Explaining major things
- - How to run the programs
- - Neccesary links either leading to an article, a video or a documentation that is realated to the codes available
- - Explain the functions of each codes available in the repo/ dir
- - If neccesary add snippets of codes explaining things difficult to understand
- - Writing of comments in the codes would be of real help
+- How to run the programs
+- Neccesary links either leading to an article, a video or a documentation that is realated to the codes available
+- Explain the functions of each codes available in the repo/ dir
+- If neccesary add snippets of codes explaining things difficult to understand
+- Writing of comments in the codes would be of real help
  
   * <strong>Check this out as a [sample](https://github.com/chryzcodez/retrieve-json-data)</strong>
  
  ## Content
  
- <details>
+<details>
 <summary>
 <strong> Python-Codes</strong>
 </summary>
