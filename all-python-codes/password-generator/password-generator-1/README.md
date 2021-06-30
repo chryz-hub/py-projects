@@ -14,8 +14,8 @@ Running the script is pretty easy, open a terminal in the folder where your scri
 
 # Sample use of the script
 
-![alt text](https://github.com/Mannuel25/Mini-Python-Projects/blob/master/password-generator/password-generator-1/screenshot_1.png)
+![alt text](https://github.com/Mannuel25/py-projects/blob/master/all-python-codes/password-generator/password-generator-1/screenshot_1.png)
 
-![alt text](https://github.com/Mannuel25/Mini-Python-Projects/blob/master/password-generator/password-generator-1/screenshot_2.png)
+![alt text](https://github.com/Mannuel25/py-projects/blob/master/all-python-codes/password-generator/password-generator-1/screenshot_2.png)
 
-![alt text](https://github.com/Mannuel25/Mini-Python-Projects/blob/master/password-generator/password-generator-1/screenshot_3.png)
+![alt text](https://github.com/Mannuel25/py-projects/blob/master/all-python-codes/password-generator/password-generator-1/screenshot_3.png)
