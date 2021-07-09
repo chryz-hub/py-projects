@@ -1,6 +1,6 @@
 # Countdown Timer
 
-This program takes in the number of seconds to countdown and displays a message when the time has elapses.
+This program takes in the number of seconds to countdown and displays a message when the time elapses.
 
 # Prerequisites
 
