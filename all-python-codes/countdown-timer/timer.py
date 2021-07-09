@@ -15,7 +15,7 @@ def countdownTimer():
 			print(timer, end='\r')
 			# delay execution of code by one second
 			time.sleep(1)
-			# countdown the number of seconds 1
+			# countdown the number of seconds
 			no_of_secs -= 1
 		elif 60 <= no_of_secs < 3600:
 			# calculate the number of hours, minutes and seconds
@@ -28,7 +28,7 @@ def countdownTimer():
 			print(timer, end='\r')
 			# delay execution of code by one second
 			time.sleep(1)
-			# countdown the number of seconds 1
+			# countdown the number of seconds
 			no_of_secs -= 1
 		elif 3600 <= no_of_secs <= 86400:
 			# calculate the number of hours, minutes and seconds
@@ -41,7 +41,7 @@ def countdownTimer():
 			print(timer, end='\r')
 			# delay execution of code by one second
 			time.sleep(1)
-			# countdown the number of seconds 1
+			# countdown the number of seconds
 			no_of_secs -= 1
 	print('Time Up!')
 
