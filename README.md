@@ -2,19 +2,12 @@
 
 <a href="https://github.com/chryz-hub/py-projects"><img src="https://img.shields.io/badge/PRs-welcome-green"></a> 
 <a href="https://github.com/chryz-hub/py-projects"><img src="https://img.shields.io/badge/Contributions-welcome-green"></a> 
-
 <a href="https://github.com/chryz-hub/py-projects/graphs/contributors"><img src="https://img.shields.io/github/contributors/chryz-Hub/py-projects?style=plastic"></a>
-
 <a href="https://github.com/chryz-hub/py-projects/stargazers"><img src="https://img.shields.io/github/stars/chryz-Hub/py-projects?style=plastic"></a>
-
 <a href="https://github.com/chryz-hub/py-projects/network/members"><img src="https://img.shields.io/github/forks/chryz-Hub/py-projects?style=plastic"></a>
-
 <a href="https://github.com/chryz-hub/py-projects/issues?q=is%3Aopen+is%3Aissue"><img src="https://img.shields.io/github/issues/chryz-Hub/py-projects?color=yellow&style=plastic"></a>
-
 <a href="https://github.com/chryz-hub/py-projects/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/chryz-Hub/py-projects?style=plastic"></a>
-
 <a href="https://github.com/chryz-hub/py-projects/pulls?q=is%3Aopen+is%3Apr"><img src="https://img.shields.io/github/issues-pr/chryz-Hub/py-projects?color=blue&style=plastic"></a>
-
 <a href="https://github.com/chryz-hub/py-projects/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed/chryz-Hub/py-projects?color=blue&style=plastic"></a>
 
 This is a repository where codes, programs and projects written in python language are brought together for the growth, fast learning and also the creating of hand-on-projects experiences for codenewbies(beginners) in the language `PYTHON`
