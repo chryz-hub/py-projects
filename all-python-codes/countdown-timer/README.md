@@ -16,4 +16,4 @@ Running the script is pretty easy, open a terminal in the folder where your scri
 
 ![alt text](https://github.com/Mannuel25/py-projects/blob/master/all-python-codes/countdown-timer/screenshot_1.png)
 
-![alt text](https://github.com/Mannuel25/py-projects/blob/master/all-python-codes/countdown-timer/screenshot_1.png)
+![alt text](https://github.com/Mannuel25/py-projects/blob/master/all-python-codes/countdown-timer/screenshot_2.png)
