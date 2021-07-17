@@ -42,7 +42,12 @@ In order for us not to ignore your effort, please check well not to make a dupli
         <li><a href="https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/image-retrieval"> Image Retrieval</a></li>
         <li><a href="https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/retri-itunes-data"> Itunes Data Retrieval</a></li>
         <li><a href="https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/retrieve-school-data"> School Data Retrieval</a></li>
-        <li><a href="https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/number-guessing-game"> Number-guessing-game</a></li>
+        <li><a href="https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/number-guessing-game"> Number Guessing Game</a></li>
+        <li><a href="https://github.com/Mannuel25/py-projects/tree/master/all-python-codes/countdown-timer"> Countdown Timer</a></li>
+        <li><a href="https://github.com/Mannuel25/py-projects/tree/master/all-python-codes/longest-word-in-text-file"> Longest Word In Text File</a></li>
+        <li><a href="https://github.com/Mannuel25/py-projects/tree/master/all-python-codes/password-generator"> Password Generator</a></li>
+        <li><a href="https://github.com/Mannuel25/py-projects/tree/master/all-python-codes/password-validator"> Password Validator</a></li>
+
    </ul>
 </details>
 
