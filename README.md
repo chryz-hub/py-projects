@@ -30,26 +30,19 @@ In order for us not to ignore your effort, please check well not to make a dupli
  
  ## Content
  
-<details>
-<summary>
-<strong> Python-Codes</strong>
-</summary>
-    <ul>
-        <li><a href="https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/bulk-file-renamer"> Bulk-File-Renamer</a></li>
-        <li><a href="https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/dictionary-algo"> Dictionary-algorithm</a></li>
-        <li><a href="https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/e-mail-scrapper"> E-mail Scrapper</a></li>
-        <li><a href="https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/git-pics-scrapper"> Git-Pics-Scrapper</a></li>
-        <li><a href="https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/image-retrieval"> Image Retrieval</a></li>
-        <li><a href="https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/retri-itunes-data"> Itunes Data Retrieval</a></li>
-        <li><a href="https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/retrieve-school-data"> School Data Retrieval</a></li>
-        <li><a href="https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/number-guessing-game"> Number Guessing Game</a></li>
-        <li><a href="https://github.com/Mannuel25/py-projects/tree/master/all-python-codes/countdown-timer"> Countdown Timer</a></li>
-        <li><a href="https://github.com/Mannuel25/py-projects/tree/master/all-python-codes/longest-word-in-text-file"> Longest Word In Text File</a></li>
-        <li><a href="https://github.com/Mannuel25/py-projects/tree/master/all-python-codes/password-generator"> Password Generator</a></li>
-        <li><a href="https://github.com/Mannuel25/py-projects/tree/master/all-python-codes/password-validator"> Password Validator</a></li>
+# Projects
 
-   </ul>
-</details>
-
- 
-
+SR No   | Project | Author  
+--- | --- | ---
+1 | [Bulk File Renamer](https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/bulk-file-renamer) | [Olanrewaju Alaba](https://github.com/chryzcodez)
+2 | [Dictionary Algorithm](https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/dictionary-algo)| [Olanrewaju Alaba](https://github.com/chryzcodez)
+3 | [Password Generator](https://github.com/Mannuel25/py-projects/tree/master/all-python-codes/password-generator) | [Emmanuel Tanimowo](https://github.com/Mannuel25)
+4 | [E-mail Scrapper](https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/e-mail-scrapper) | [Olanrewaju Alaba](https://github.com/chryzcodez)
+5 | [Git-Pics-Scrapper](https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/git-pics-scrapper) | [Olanrewaju Alaba](https://github.com/chryzcodez)
+6 | [Image Retrieval](https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/image-retrieval) | [Olanrewaju Alaba](https://github.com/chryzcodez)
+7 | [Itunes Data Retrieval](https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/retri-itunes-data) | [Olanrewaju Alaba](https://github.com/chryzcodez) 
+8 | [School Data Retrieval](https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/retrieve-school-data) | [Olanrewaju Alaba](https://github.com/chryzcodez) 
+9 | [Number Guessing Game](https://github.com/chryz-hub/py-projects/tree/master/all-python-codes/number-guessing-game) | [Emmanuel Tanimowo](https://github.com/Mannuel25)
+10 | [Countdown Timer](https://github.com/Mannuel25/py-projects/tree/master/all-python-codes/countdown-timer) | [Emmanuel Tanimowo](https://github.com/Mannuel25) 
+11 | [Longest Word In Text File](https://github.com/Mannuel25/py-projects/tree/master/all-python-codes/longest-word-in-text-file) | [Emmanuel Tanimowo](https://github.com/Mannuel25)
+12 | [Password Validator](https://github.com/Mannuel25/py-projects/tree/master/all-python-codes/password-validator) | [Emmanuel Tanimowo](https://github.com/Mannuel25)
