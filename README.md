@@ -20,7 +20,7 @@ In order for us not to ignore your effort, please check well not to make a dupli
 - Explain the functions of each codes available in the repo/ dir
 - If neccesary add snippets of codes explaining things difficult to understand
 - Writing of comments in the codes would be of real help
-- Screenshots of the program output (optional)
+- Screenshot(s) of the program output (optional)
  
   * <strong>Check this out as a [sample](https://github.com/chryzcodez/retrieve-json-data)</strong>
  
